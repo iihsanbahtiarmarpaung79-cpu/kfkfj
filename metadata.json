@@ -1,0 +1,5 @@
+{
+  "name": "DreamStream AI Video",
+  "description": "Generate cinematic AI videos using Google's Veo model. Create stunning visuals from text prompts.",
+  "requestFramePermissions": []
+}
